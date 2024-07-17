@@ -1,3 +1,3 @@
 # culinaryAI
 
-![image](Logo.png)
+![image](logo.png)
